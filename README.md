@@ -1,8 +1,8 @@
-## Hey 👋, This is Jeffrey Lee
+## Hey 👋, This is Jeff Lee
 [![Gmail Badge](https://img.shields.io/badge/-jeffleezy@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jeffleezy@gmail.com)](mailto:jeffleezy@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/jeffrey-lee-2aa56014-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/jeffrey-lee-2aa56014/)](https://www.linkedin.com/in/www.linkedin.com/in/jeffrey-lee-2aa56014/) [![Github Badge](https://img.shields.io/badge/-jefflee-8-8-grey?style=flat&logo=github&logoColor=white&link=https://github.com/jefflee-8-8/)](https://www.github.com/jefflee-8-8/) <p align='left'>I am an business intelligence analyst with the following technical skill set; spreadsheets, postgresql, tableau, power bi, python. 
-My work background outside of data analyst is Director of Operations for a franchise F&B company.
-I have a proven track record of consistent revenue growth and bottom line cost management & profitability.  Responsible to oversee all critical company functions; finance, operations, marketing, IT, legal, business development.
+
+My work background outside of data analyst is Director of Operations for a franchise F&B company. I have a proven track record of consistent revenue growth and bottom line cost management & profitability.  Responsible to oversee all critical company functions; finance, operations, marketing, IT, legal, business development.
 
 I am excited to apply my real world knowledge to business data analysis.</p>
 ## Some of my Github Stats
