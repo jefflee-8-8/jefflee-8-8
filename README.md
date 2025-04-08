@@ -11,6 +11,8 @@ I am excited to apply my real world knowledge to business data analysis.</p>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=jefflee-8-8&show_icons=true&include_all_commits=true)](https://github.com/jefflee-8-8/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefflee-8-8&layout=compact)](https://github.com/jefflee-8-8/github-readme-stats)
 
+Some facts about me:
+- I enjoy going to music concerts and festivals!
 - ⚡ Fun fact: I love working out and going for long runs!
 - 👯 I’m looking to collaborate on business intelligence projects!
 
