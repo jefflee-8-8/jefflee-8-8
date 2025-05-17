@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jeffrey Lee</h1>
-<h3 align="center">I am an business intelligence analyst with the following technical skill set; spreadsheets, postgresql, tableau, power bi, python. My work background outside of data analyst is Director of Operations for a franchise F&B company. I have a proven track record of consistent revenue growth and bottom line cost management & profitability. Responsible to oversee all critical company functions; finance, operations, marketing, IT, legal, business development. I am excited to apply my real world knowledge to business data analysis.</h3>
+<h1 align="left">Hi 👋, I'm Jeffrey Lee</h1>
+<h3 align="left">I am an business intelligence analyst with the following technical skill set; spreadsheets, postgresql, tableau, power bi, python. My work background outside of data analyst is Director of Operations for a franchise F&B company. I have a proven track record of consistent revenue growth and bottom line cost management & profitability. Responsible to oversee all critical company functions; finance, operations, marketing, IT, legal, business development. I am excited to apply my real world knowledge to business data analysis.</h3>
 
 - 📫 How to reach me **jeff@ctemgmt.com**
 
